@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LeetCommit/LeetCommit/main/dist/icons/128.png" alt="LeetCommit Logo" width="128" height="128" />
+  <img src="https://raw.githubusercontent.com/LeetCommit/.github/main/profile/128.png" alt="LeetCommit Logo" width="128" height="128" />
   
   # Welcome to LeetCommit 🚀
   
